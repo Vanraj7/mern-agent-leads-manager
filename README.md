@@ -141,9 +141,7 @@ Login Page, Dashboard, Agents, Upload Leads, Leads Table
 
 
 
-📹 Video Demonstration
----
-https://drive.google.com/file/d/1E5CIRo1PaI2XFdKnNoPq-1KKm9rwwwDc/view?usp=drive_link
+
 
 ✅ Criteria Mapping
 ---
