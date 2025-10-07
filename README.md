@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview  
 This is a **MERN stack application** that enables an Admin to manage agents, upload leads via spreadsheet files, automatically distribute those leads equally among agents, and filter/view all leads with JWT authentication and duplicate prevention.
+
 It allows an Admin to:  
 - 🔐 Login with JWT authentication  
 - 👨‍💼 Manage Agents (Add / View Agents)  
